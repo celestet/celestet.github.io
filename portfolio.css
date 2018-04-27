@@ -1,0 +1,83 @@
+body{
+    background-image: url(ba.jpg) ;  
+    color: black;
+    background-size: cover;
+    margin-top: 0;
+    margin: 0;
+   font-family: 'Work Sans', sans-serif;
+  
+}
+    
+
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 0px;
+    opacity: 0.5;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.intro{
+    color: black;
+}
+
+img{
+    height: 220px;
+    width: auto;
+  padding: 20px;
+    padding-left: 350px;
+}
+
+#nav-bar{
+    word-spacing: 30px;
+    text-align: center;
+}
+
+
+h1{ 
+    background-color: black;
+}
+
+p{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.band{
+ padding-left: 460px;   
+}
+
+
+.container{
+    display: flex;
+}
+
+object{
+ padding: 250px;
+    padding-top: 20px;
+}
+
+
+
+/*
+.column{
+    flex: 2;
+}
+
+#col-1{
+    flex: 2;
+}
+*/
+
+h1{
+    margin-top: 0;
+}
+
+
+
